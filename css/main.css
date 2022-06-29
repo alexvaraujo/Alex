@@ -1,0 +1,115 @@
+* {
+    margin: top;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #68DACC;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+nav ul a {
+    font-size: 1.5rem;
+    color: #070707;
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 6.4rem;
+    font-family: 'Abhaya Libre', serif;
+    margin-top: 12.5rem;
+    margin-left: 36.1rem;
+    margin-right: 36.1rem;
+    text-align: center;
+}
+
+.primeiro {
+    font-size: 2rem;
+    font-family: 'Inter', sans-serif;
+    line-height: 2.5rem;
+    margin-left: 36.1rem;
+    margin-right: 36.1rem;
+    text-align: center;
+}
+
+iframe {
+    margin-left: 40rem;
+    margin-right: 60rem;
+    margin-bottom: 2rem;
+    margin-top: 4rem;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3.2rem;
+    list-style: none;
+}
+
+.centro {
+    font-family: 'Abhaya Libre', serif;
+    font-size: 5.5rem;
+    margin-left: 50rem;
+}
+
+h2 {
+    font-family: 'Abhaya Libre', serif;
+    font-size: 4.5rem;
+    margin-top: 12.5rem;
+    margin-left: 50rem;
+    margin-right: 50rem;
+    text-align: center;
+}
+
+.conteudo {
+    width: 110rem;
+    margin: auto;
+}
+
+.conteudo article {
+    width: 85rem;
+    margin: auto;
+}
+
+.receita__conteudo {
+    display: flex;
+    gap: 6.4rem;
+}
+
+h3 {
+    font-size: 3rem;
+    font-family: 'Abhaya Libre', serif;
+}
+
+.cardapio {
+    font-size: 1.8rem;
+    font-family: 'Inter', sans-serif;
+}
+
+.prato {
+    margin-right: auto;
+    margin-bottom: 3rem;
+    width: 15rem;
+}
+
+footer {
+    background-color: #1230c5;
+    padding: 0.5rem 0;
+}
+
+.rodape {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1230c5;
+}
+
+h4 {
+    color: #DBDFD5;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    background-color: #1230c5;
+}
